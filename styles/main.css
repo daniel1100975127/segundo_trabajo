@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pagina1{
+    background-color: yellow;
+    width: 750px;
+    height: 1000px;
+    margin: auto;
+}
+.pagina1 article{
+    background-color:red;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 30px 15px 30px 30px;
+
+}
+article table{
+    background-color: gainsboro;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+section{
+    background-color: yellow;
+    width: 750px;
+    height: 300px;
+    
+    display:  inline-block;
+
+}
+section div {
+    background-color: red;
+    display: inline-block;
+    width: 250px;
+    height:250px;
+    margin: 0px 15px 10px 80px;
+
+}
+
+div h2{
+    background-color: gainsboro;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+ div h3{
+    background-color: gainsboro;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+
+ }
+footer {
+     background-color: red;
+     width: 700px;
+     height: 400px;
+     margin: auto;     
+ }
+ footer aside{
+    background-color: gainsboro;    
+     width: 200px;
+     height: 350px;
+     display: inline-block;
+     margin: 15px;
+    
+ }
+ footer aside nav{
+
+ 
+ background-color: #00FF62;    
+ width: 150px;
+ height: 100px;
+ margin: 10px 24px; 
+ }
+ footer aside div{
+
+    background-color:   #00FF62;  
+    width: 150px;
+    height: 320px;
+   border-radius: 50%;
+   margin: 23px;
+
+
+ }
+ 
+ footer aside section{
+      
+ background-color: #00FF62;    
+ width: 100px;
+ height: 100px;
+ margin: 10px 24px;
+ border-radius: 50%;
+ margin: 7px 10px 10px 40px;
+ }
+
+
+ .pagina2{
+    background-color: yellow;
+    width: 750px;
+    height: 1000px;
+    margin: auto;
+ }
